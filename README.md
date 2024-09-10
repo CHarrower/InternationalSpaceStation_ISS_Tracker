@@ -3,7 +3,7 @@ International Space Station (ISS) Real-Time Tracker
 This project provides a simple visualisation of the International Space Station's (ISS) current position in real-time using Python and the Turtle graphics module. The core functionality relies on fetching real-time location data of the ISS from a public API and plotting its movement onto a world map.
 Key Features:
 
-    Real-Time ISS Positioning: The project utilises the Open Notify API to retrieve the ISS's current latitude and longitude coordinates. These coordinates are refreshed every two seconds to ensure the position is updated continuously on the map.
+    - Real-Time ISS Positioning: The project utilises the Open Notify API to retrieve the ISS's current latitude and longitude coordinates. These coordinates are refreshed every two seconds to ensure the position is updated continuously on the map.
 
     Map Display: Using the Turtle graphics module, a world map background (world.gif) is displayed, with the ISS's position plotted on it. The ISS is represented as a custom turtle icon (iss.gif), which moves across the map as new positional data is received.
 
