@@ -1,0 +1,11 @@
+There are currently 7 astronauts on the ISS: 
+
+Jasmin Moghbeli - on board
+Andreas Mogensen - on board
+Satoshi Furukawa - on board
+Konstantin Borisov - on board
+Oleg Kononenko - on board
+Nikolai Chub - on board
+Loral O'Hara - on board
+
+Your current lat / long is: [53.4809, -2.2374]
