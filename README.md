@@ -40,10 +40,8 @@ To run this project, follow these steps to set up the environment:
      ```bash
      .\venv\Scripts\activate
      ```
-
-4. **Install any necessary dependencies (if applicable in the future)**: If you use additional libraries, create a `requirements.txt` file and include the dependencies. For now, no additional packages are required.
-
-5. **Run the programme**:
+     
+4. **Run the programme**:
    ```bash
    python main.py
    ```
